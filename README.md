@@ -1,2 +1,2 @@
 # MostFreedom
-All pull request will be merged.
+All pull requests will be merged.
